@@ -1,6 +1,10 @@
 # GlowX311
 The way we approach visual aesthetics in digital environments.
 
+# Credits
+newguy: Scripting and Main Adjustments
+hashions: Glow Images
+
 # Example
 <details> <summary>Initial</summary> <pre><code lang="lua">
   local GlowX311 = loadstring(game:HttpGet("https://github.com/Storm99999/GlowX311/blob/main/src/GlowX311.lua?raw=true"))()
