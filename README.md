@@ -2,8 +2,8 @@
 The way we approach visual aesthetics in digital environments.
 
 # Credits
-newguy: Scripting and Main Adjustments
-hashions: Glow Images
+* newguy: Scripting and Main Adjustments
+* hashions: Glow Images
 
 # Example
 <details> <summary>Initial</summary> <pre><code lang="lua">
