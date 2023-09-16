@@ -2,5 +2,4 @@
 The way we approach visual aesthetics in digital environments.
 
 # Example
-``lua
-print("hi")```
+<details> <summary>Initial draft</summary> <pre><code lang="lua"> print("hi") </code></pre> </details>
